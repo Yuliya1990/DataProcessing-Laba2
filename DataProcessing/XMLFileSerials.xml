@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Serials>
+	<Serial
+		Name = "Elite"
+		Genre = "Crime"
+		Released = "2018"
+		Rating = "4.3"
+		Seasons = "4"
+		Country = "Spain">
+	</Serial>
+	<Serial
+		Name = "Friends"
+		Genre = "Sitcom"
+		Released = "1994"
+		Rating = "5"
+		Seasons = "10"
+		Country = "USA">
+	</Serial>
+	<Serial
+		Name = "Gotham"
+		Genre = "Thriller"
+		Released = "2015"
+		Rating = "4.4"
+		Seasons = "5"
+		Country = "USA">
+	</Serial>
+	<Serial
+		Name = "Magnificent century"
+		Genre = "Historical drama"
+		Released = "2011"
+		Rating = "4"
+		Seasons = "4"
+		Country = "Turkey">
+	</Serial>
+	<Serial
+		Name = "Supernatural"
+		Genre = "Horror"
+		Released = "2005"
+		Rating = "4.4"
+		Seasons = "15"
+		Country = "Canada">
+	</Serial>
+	<Serial
+		Name = "Teen Wolf"
+		Genre = "Horror"
+		Released = "2011"
+		Rating = "3.5"
+		Seasons = "6"
+		Country = "USA">
+	</Serial>
+	<Serial
+		Name = "Witcher"
+		Genre = "Fantasy"
+		Released = "2019"
+		Rating = "3.7"
+		Seasons = "1"
+		Country = "USA">
+	</Serial>
+	<Serial
+		Name = "Shameless"
+		Genre = "Comedy"
+		Released = "2011"
+		Rating = "2"
+		Seasons = "11"
+		Country = "USA">
+	</Serial>
+	<Serial
+		Name = "Sex education"
+		Genre = "Comedy"
+		Released = "2019"
+		Rating = "3.5"
+		Seasons = "3"
+		Country = "Great Britain">
+	</Serial>
+	<Serial
+		Name = "Lie to me"
+		Genre = "Crime"
+		Released = "2009"
+		Rating = "5"
+		Seasons = "4"
+		Country = "USA">
+	</Serial>
+</Serials>
